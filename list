@@ -1,19 +1,13 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="Unitel SC" tvg-logo="https://1.bp.blogspot.com/-2J9bvu227KY/YaRG2yVeBFI/AAAAAAAABto/CJ7LGP6xxpMNdqXxZofYaIyyFkc3D74DQCLcBGAsYHQ/s1247/UNITEL%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",UNITEL SANTA CRUZ
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb5ePRtzwb7A9NrUWo8IsIQ)/dm/3/x7vsezg/s/live-3.m3u8
-
 #EXTINF:-1 tvg-name="Red Uno SC" tvg-logo="https://1.bp.blogspot.com/-ik38prajUdM/YaRH4NN7pFI/AAAAAAAABuU/cfKft585K5s4uOBIVYTmhdhwPDfQE_9UACLcBGAsYHQ/s1688/RED%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",RED UNO SANTA CRUZ
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkAXRysAzuvrfpeWHd0A24k)/dm/3/x825whp/d/live-3.m3u8
-
 #EXTINF:-1 tvg-name="Bolivision SC HD" tvg-logo="https://1.bp.blogspot.com/-6HaPEJ6ITHM/YaRIfYRHPmI/AAAAAAAABu0/oaYL8ssorE84n2y3_VR-d50jsdrxAhCMACLcBGAsYHQ/s1688/BOLIVISION%2BHD%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",BOLIVISION SANTA CRUZ HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-name="ATB SC" tvg-logo="https://1.bp.blogspot.com/-xyH5WekPZ-8/YaVNSzQ2CGI/AAAAAAAABv4/mD4reT4zvJkj29svW-nBYUq1_ms43pGaQCLcBGAsYHQ/s1688/ATB%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",ATB SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-name="PAT SC" tvg-logo="https://1.bp.blogspot.com/-wap-XFFfS-A/YaRJUKWcF-I/AAAAAAAABvQ/4jiK75LaZKA5GTeqMylmPM0U3tCU8OD0wCLcBGAsYHQ/s1688/PAT%2BHD%2B02.jpg" group-title="BOLIVIA",PAT HD
 http://200.58.160.67:8081/envivo/pat/playlist.m3u8
-
 tvg-name="Unitel SC 2" tvg-logo="https://1.bp.blogspot.com/-2J9bvu227KY/YaRG2yVeBFI/AAAAAAAABto/CJ7LGP6xxpMNdqXxZofYaIyyFkc3D74DQCLcBGAsYHQ/s1247/UNITEL%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",UNITEL SANTA CRUZ
 http://162.255.86.122:25461/live/CANALES-GRATIS-DAZPLAYER-WEByApp/MIRA-TODOS-GRATIS-DaZPlayer-IPTV/732.m3u8
