@@ -1,15 +1,57 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Unitel SC" tvg-logo="https://1.bp.blogspot.com/-2J9bvu227KY/YaRG2yVeBFI/AAAAAAAABto/CJ7LGP6xxpMNdqXxZofYaIyyFkc3D74DQCLcBGAsYHQ/s1247/UNITEL%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",UNITEL SANTA CRUZ
-http://162.255.86.122:25461/live/CANALES-GRATIS-DAZPLAYER-WEByApp/MIRA-TODOS-GRATIS-DaZPlayer-IPTV/732.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbn068gSDL7IM1D_18zi_uGq9XsQe4KMOrWRbNF-OYqb)/dm/3/x7vsezg/d/live-3.m3u8
 
 #EXTINF:-1 tvg-name="Red Uno SC" tvg-logo="https://1.bp.blogspot.com/-ik38prajUdM/YaRH4NN7pFI/AAAAAAAABuU/cfKft585K5s4uOBIVYTmhdhwPDfQE_9UACLcBGAsYHQ/s1688/RED%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",RED UNO SANTA CRUZ
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh3A5udUVmnac8D3COy2XYUJLGbSzfXhjwrBpbyfHu7r)/dm/3/x825whp/d/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrkqJ7WsuVa-Yh1I4acg0zBDCLKcXDMPi6N_KOjlJq5J)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-name="Bolivision SC HD" tvg-logo="https://1.bp.blogspot.com/-6HaPEJ6ITHM/YaRIfYRHPmI/AAAAAAAABu0/oaYL8ssorE84n2y3_VR-d50jsdrxAhCMACLcBGAsYHQ/s1688/BOLIVISION%2BHD%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",BOLIVISION SC HD
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-name="ATB SC" tvg-logo="https://1.bp.blogspot.com/-xyH5WekPZ-8/YaVNSzQ2CGI/AAAAAAAABv4/mD4reT4zvJkj29svW-nBYUq1_ms43pGaQCLcBGAsYHQ/s1688/ATB%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",ATB SANTA CRUZ
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlrJWFUP0w5V0fZkzf9HcRqS8gRsJh1F2bbnzZQZK41c)/dm/3/x84eirw/d/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOhwT7txselmNjmODP8zggYlQhTi8JvMc9RFuu0ql2LCI)/dm/3/x84t82c/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="Red Pat Bolivia" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="BOLIVIA", RED PAT BOLIVIA
 https://master.tucableip.com/pat/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING VLC", UNITEL SEÑAL EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING VLC", RED UNO EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING VLC", ATB EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x85aatu
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO SCZ HD
+https://www.dailymotion.com/video/x825whp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k52t75S/UNITEL-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL SCZ HD
+https://www.dailymotion.com/video/x7vsezg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL BOLIVIA EN VIVO HD
+https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxjNJCT/VIWIX-ACCION.jpg" group-title="SERIES PELICULAS ESTRENOS",VIWIX TV ACCION HD
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbTN4Wm/VIWIX-MUSIC.jpg" group-title="SERIES PELICULAS ESTRENOS",VIWIX TV MUSICA HD
+https://s2.tvdatta.com:3548/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKV5J86/VIWIX-EXTRENOS.jpg" group-title="SERIES PELICULAS ESTRENOS",VIWIX TV ESTRENOS HD
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CnxPz4f/VIWIX-TERROR.jpg" group-title="SERIES PELICULAS ESTRENOS",VIWIX TV TERROR HD
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VLdSdkP/VIWIX-SERIES.jpg" group-title="SERIES PELICULAS ESTRENOS",VIWIX TV SERIES HD
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="SERIES PELICULAS ESTRENOS",PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/chunklist_w326436110.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="SERIES PELICULAS ESTRENOS",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
